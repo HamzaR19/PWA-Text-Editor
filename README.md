@@ -35,7 +35,7 @@ You can use it to take notes or edit texts and keep track of documents.
 ## Contribution Guidelines
 
 Hamza Rahman
-
+* Git Hub link [Link to Heroku](https://pwa-text-editor-app1-8fecd9b45233.herokuapp.com/)
 ## Images
 
 * Git Hub link [Link to Heroku](https://pwa-text-editor-app1-8fecd9b45233.herokuapp.com/)
