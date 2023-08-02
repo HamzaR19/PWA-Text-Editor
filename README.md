@@ -40,6 +40,10 @@ Hamza Rahman
 
 * Git Hub link [Link to Heroku](https://pwa-text-editor-app1-8fecd9b45233.herokuapp.com/)
 
+
+  ![Screenshot_20230802_101401_Chrome](https://github.com/HamzaR19/PWA-Text-Editor/assets/132932060/0fbccbb2-1b4a-4c88-9938-2bfdc0c41dff)
+
+
 ## License
 
 NOTICE: This application is covered under the Apache 2.0 License
