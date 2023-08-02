@@ -23,7 +23,7 @@ module.exports = () => {
         swDest: 'src-sw.js',
       }),
       new HtmlWebpackPlugin({
-        template: './src/index.html',
+        template: './index.html',
         title: 'J.A.T.E'
       }),
 
