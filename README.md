@@ -14,7 +14,7 @@ Hamza Rahman's README
 
  * [Contribution-Guidelines](#contribution-guidelines)
 
- * [Test-Instructions](#test-instructions)
+ * [Image](#Image)
 
  * [License](#license)
 
@@ -36,9 +36,9 @@ You can use it to take notes or edit texts and keep track of documents.
 
 Hamza Rahman
 
-## Test Instructions
+## Image
 
-n/a
+* Git Hub link [Link to Heroku](https://pwa-text-editor-app1-8fecd9b45233.herokuapp.com/)
 
 ## License
 
