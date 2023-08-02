@@ -32,7 +32,7 @@ registerRoute(
   ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
   new StaleWhileRevalidate({
     // Cashe all the things name
-    cacheName: 'cache-all-the-things',
+    cacheName: 'assets-cache',
     plugins: [
       new CacheableResponsePlugin({
         statuses: [0, 200],
